@@ -1,4 +1,4 @@
-# Amazon-Web-Scraper-Project.ipynb
+
 # 🛒 Amazon Web Scraper Project
 
 ## 🚀 Overview
